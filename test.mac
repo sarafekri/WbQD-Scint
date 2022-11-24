@@ -1,0 +1,14 @@
+
+/run/initialize
+
+
+#/tracking/verbose 1
+
+/gps/particle mu-
+/gps/energy 50 MeV
+/gps/direction 0 0 1
+/gps/position -28 0 -10 cm
+
+/run/beamOn 10
+
+
